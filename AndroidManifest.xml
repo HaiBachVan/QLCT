@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hut.edu.qlct.controller"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="20" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="hut.edu.qlct.controller.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="hut.edu.qlct.controller.RegisterActivity"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="hut.edu.qlct.controller.OptionsActivity" />
+        <activity android:name="hut.edu.qlct.controller.NganSachActivity" />
+        <activity android:name="hut.edu.qlct.controller.GiaodichActivity" />
+        <activity android:name="hut.edu.qlct.controller.DisplayNganSach" />
+        <activity android:name="hut.edu.qlct.controller.DisplayGiaodich" />
+        <activity android:name="hut.edu.qlct.controller.TimkiemActivity" />
+        <activity android:name="hut.edu.qlct.controller.DisplaySearchName" />
+        <activity android:name="hut.edu.qlct.controller.DisplayTimeSearch" />
+        <activity android:name="hut.edu.qlct.controller.ThongkeActivity" />
+        <activity android:name="hut.edu.qlct.controller.SuachuaGiaodich" />
+        <activity android:name="hut.edu.qlct.controller.OptionGiaoDichActivity" />
+        <activity android:name="hut.edu.qlct.controller.OptionNgansachActivity" />
+        <activity android:name="hut.edu.qlct.controller.DeleteGiaodich" />
+        <activity android:name="hut.edu.qlct.controller.UpdateGiaodich" />
+        <activity android:name="hut.edu.qlct.controller.UpdateNgansach" />
+        <activity android:name="hut.edu.qlct.controller.DeleteNganSach" />
+        <activity android:name="hut.edu.qlct.controller.DeleteGiaoDich" />
+        <activity android:name="hut.edu.qlct.controller.SuachuaNganSach" />
+        <activity android:name="hut.edu.qlct.controller.DisplaySearchTheTag" />
+    </application>
+
+</manifest>

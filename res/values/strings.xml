@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QLCT</string>
+    <string name="action_settings">Settings</string>
+    <string name="des_user">Username</string>
+    <string name="des_pass">Password</string>
+    <string name="des_confirm_pass">Confirm password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+
+    <!--  -->
+    <string name="tv_sotienbd">Số tiền ban đầu</string>
+    <string name="tv_sotienht">Số tiền hiện tại</string>
+    <string name="tv_ngansach">Tên ngân sách</string>
+    <string name="default_value">0</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!--  -->
+    <string name="ngansach">Ngân sách</string>
+    <string name="giaodich">Giao dịch</string>
+    <string name="thongke">Thống kê</string>
+    <string name="timkiem">Tìm kiếm</string>
+    <string name="thoat">Thoát</string>
+
+    <!--  -->
+    <string name="add_giaodich">Thêm giao dịch</string>
+    <string name="display_giaodich">Xem giao dịch</string>
+    <string name="delete_giaodich">Xóa giao dịch</string>
+    <string name="update_giaodich">Sửa giao dịch</string>
+
+    <!--  -->
+    <string name="add_ngansach">Thêm ngân sách</string>
+    <string name="display_ngansach">Xem ngân sách</string>
+    <string name="delete_ngansach">Xóa ngân sách</string>
+    <string name="update_ngansach">Sửa ngân sách</string>
+
+    <!--  -->
+    <string name="tv_tengiaodich">Tên giao dịch</string>
+    <string name="tv_giatien">Giá tiền</string>
+    <string name="tv_thetag">Thẻ tag</string>
+    <string name="tv_soluong">Số lượng</string>
+    <string name="tv_loaigiaodich">Loại giao dịch</string>
+    <string name="tv_date">Ngày</string>
+    <string name="tv_defaultdate">10/10/2013</string>
+
+    <!-- Menu -->
+    <string name="view_ngansach">Hiển thị NS</string>
+    <string name="view_giaodich">Hiển thị GD</string>
+
+    <!--  -->
+    <string name="tv_stt">Số thứ tự</string>
+    <string name="tv_tenngansach">Tên ngân sách</string>
+    <string name="tv_sotienBD">Số tiền ban đầu</string>
+    <string name="tv_sotienHT">Số tiền hiện tại</string>
+    <string name="searchTime">Tìm kiếm thời gian</string>
+    <string name="searchName">Tìm kiếm theo tên</string>
+    <string name="searchTheTag">Tìm kiếm thẻ tag</string>
+    <string name="thu">Thu: </string>
+    <string name="chi">Chi: </string>
+
+</resources>

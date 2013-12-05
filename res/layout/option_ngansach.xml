@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/add_ngansach"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/add_ngansach" />
+    
+    <Button
+        android:id="@+id/display_ngansach"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/display_ngansach" />
+
+    <Button
+        android:id="@+id/delete_ngansach"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/delete_ngansach" />
+
+    <Button
+        android:id="@+id/update_ngansach"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/update_ngansach" />
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- For context menu -->
+    <!-- Context menu -->
+    <dimen name="context_width">260.0dp</dimen>
+    <dimen name="context_height">65.0dp</dimen>
+    <dimen name="context_padding">10.0dp</dimen>
+    <dimen name="context_draw_padding">15.0dp</dimen>
+    <dimen name="context_font_size">10sp</dimen>
+
+    <!-- For widget -->
+    <dimen name="widget_height">110px</dimen>
+    <dimen name="widget_width">210px</dimen>
+
+</resources>
